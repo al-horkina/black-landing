@@ -1,0 +1,32 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+header{
+    background: #23232e;
+    color: white;
+    height: 100vh;
+    padding: 60px 0;
+}
+h1{
+    text-transform:uppercase;
+    font-size: 72px;
+    padding-top: 100px;
+}
+header p{
+    padding-bottom: 100px;
+}
+section{
+    color: #23232e;
+    font-size: 24px;
+    padding: 100px 20% 0;
+}
+footer{
+    color: #23232e;
+}
+
+div{
+    display: inline-block;
+    width: 250px;
+    text-align: left;
+}
